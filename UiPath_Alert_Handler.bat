@@ -1,0 +1,1 @@
+"C:\Users\RPA Testing\AppData\Local\Programs\UiPath\Studio\UiRobot.exe" -file "C:\Users\RPA Testing\Desktop\Alert Handler\ALert_Handler.1.0.5.nupkg"

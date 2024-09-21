@@ -1,0 +1,1 @@
+"C:\Users\RPA Testing\AppData\Local\Programs\UiPath\Studio\UiRobot.exe" -file "C:\Users\RPA Testing\Desktop\PyDesktopAutomation_Windows.1.0.3.nupkg"
